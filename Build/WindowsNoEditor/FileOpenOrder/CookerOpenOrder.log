@@ -6,182 +6,182 @@
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/FirstPersonProjectileMesh.uexp" 5
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/FirstPersonTemplateWeaponFire02.uasset" 6
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/FirstPersonTemplateWeaponFire02.uexp" 7
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ImportantServerMessageBox.uasset" 8
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ImportantServerMessageBox.uexp" 9
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ImportantServerMessage.uasset" 10
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ImportantServerMessage.uexp" 11
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameChatMessageChild.uasset" 12
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameChatMessageChild.uexp" 13
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/ChatMessageStructure.uasset" 14
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/ChatMessageStructure.uexp" 15
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/ChatMessageStructure.uasset" 8
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/ChatMessageStructure.uexp" 9
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SavePlayerData.uasset" 10
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SavePlayerData.uexp" 11
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/LoadingScreen.uasset" 12
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/LoadingScreen.uexp" 13
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyGameInstance.uasset" 14
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyGameInstance.uexp" 15
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 16
 "../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 17
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameChatWindow.uasset" 18
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameChatWindow.uexp" 19
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/LoadingScreen.uasset" 20
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/LoadingScreen.uexp" 21
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SavePlayerData.uasset" 22
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SavePlayerData.uexp" 23
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyGameInstance.uasset" 24
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyGameInstance.uexp" 25
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/PlayerStatusScoreBoard.uasset" 26
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/PlayerStatusScoreBoard.uexp" 27
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ScoreBoard.uasset" 28
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ScoreBoard.uexp" 29
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 30
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uexp" 31
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 32
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uexp" 33
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.ubulk" 34
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 35
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 36
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 37
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 38
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 39
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 40
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 41
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 42
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 43
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 44
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 45
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 46
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 47
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 48
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 49
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 50
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uexp" 51
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.ubulk" 52
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 53
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 54
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 55
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 56
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 57
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 58
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 59
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 60
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 61
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 62
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 63
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 64
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 65
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 66
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 67
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_Body.uexp" 68
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_Body_Inst.uasset" 69
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_Body_Inst.uexp" 70
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 71
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 72
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 73
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uexp" 74
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4Man_Logo_N.ubulk" 75
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 76
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 77
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 78
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 79
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 80
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 81
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 82
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 83
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 84
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 85
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Unequip_Rifle_Standing.uasset" 86
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Unequip_Rifle_Standing.uexp" 87
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Montage/Unequip_Rifle_Standing_Montage.uasset" 88
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Montage/Unequip_Rifle_Standing_Montage.uexp" 89
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Equip_Rifle_Standing.uasset" 90
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Equip_Rifle_Standing.uexp" 91
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Montage/Equip_Rifle_Standing_Montage.uasset" 92
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Montage/Equip_Rifle_Standing_Montage.uexp" 93
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonWalk.uasset" 94
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonWalk.uexp" 95
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonRun.uasset" 96
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonRun.uexp" 97
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonIdle.uasset" 98
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonIdle.uexp" 99
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPerson_IdleRun_2D.uasset" 100
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPerson_IdleRun_2D.uexp" 101
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 102
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uexp" 103
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 104
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uexp" 105
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 106
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uexp" 107
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 108
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uexp" 109
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 110
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Idle_Rifle_Ironsights.uexp" 111
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/BS_Jog_IronSight.uasset" 112
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/BS_Jog_IronSight.uexp" 113
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Idle_Rifle_Hip.uasset" 114
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Idle_Rifle_Hip.uexp" 115
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Bwd_Rifle.uasset" 116
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Bwd_Rifle.uexp" 117
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Fwd_Rifle.uasset" 118
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Fwd_Rifle.uexp" 119
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Lt_Rifle.uasset" 120
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Lt_Rifle.uexp" 121
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Rt_Rifle.uasset" 122
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Rt_Rifle.uexp" 123
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/BS_Jog.uasset" 124
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/BS_Jog.uexp" 125
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPerson_Jump.uasset" 126
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPerson_Jump.uexp" 127
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonJump_Start.uasset" 128
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonJump_Start.uexp" 129
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonJump_Loop.uasset" 130
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonJump_Loop.uexp" 131
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_Main.uasset" 132
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_Main.uexp" 133
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_U.uasset" 134
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_U.uexp" 135
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_D.uasset" 136
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_D.uexp" 137
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_CC.uasset" 138
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_CC.uexp" 139
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown_HiP.uasset" 140
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown_HiP.uexp" 141
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 142
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 143
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Ironsight_Main.uasset" 144
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Ironsight_Main.uexp" 145
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun_PhysicsAsset.uasset" 146
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun_PhysicsAsset.uexp" 147
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun_Skeleton.uasset" 148
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun_Skeleton.uexp" 149
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun.uasset" 150
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun.uexp" 151
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/MainCharacter.uasset" 152
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/MainCharacter.uexp" 153
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/Character1.uasset" 154
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/Character1.uexp" 155
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 156
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 157
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 158
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 159
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 160
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 161
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 162
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 163
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 164
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 165
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 166
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 167
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 168
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 169
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SpawnPoints/SpawnPoint_1vs1.uasset" 170
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SpawnPoints/SpawnPoint_1vs1.uexp" 171
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SpawnPoints/DefaultSpawnPoint.uasset" 172
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SpawnPoints/DefaultSpawnPoint.uexp" 173
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyGameMode.uasset" 174
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyGameMode.uexp" 175
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/PlayerChild.uasset" 176
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/PlayerChild.uexp" 177
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ChatMessageChild.uasset" 178
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ChatMessageChild.uexp" 179
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ChatWindow.uasset" 180
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ChatWindow.uexp" 181
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/LobbyWB.uasset" 182
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/LobbyWB.uexp" 183
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 18
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uexp" 19
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 20
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uexp" 21
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.ubulk" 22
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 23
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 24
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 25
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 26
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 27
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 28
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 29
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 30
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 31
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 32
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 33
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 34
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 35
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uexp" 36
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.ubulk" 37
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 38
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uexp" 39
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.ubulk" 40
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 41
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 42
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 43
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 44
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 45
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 46
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 47
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 48
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 49
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 50
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 51
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 52
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 53
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 54
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 55
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_Body.uexp" 56
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_Body_Inst.uasset" 57
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_Body_Inst.uexp" 58
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 59
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 60
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 61
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uexp" 62
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Textures/UE4Man_Logo_N.ubulk" 63
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 64
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 65
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 66
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 67
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 68
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 69
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 70
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 71
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 72
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 73
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Unequip_Rifle_Standing.uasset" 74
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Unequip_Rifle_Standing.uexp" 75
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Montage/Unequip_Rifle_Standing_Montage.uasset" 76
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Montage/Unequip_Rifle_Standing_Montage.uexp" 77
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Equip_Rifle_Standing.uasset" 78
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Equip_Rifle_Standing.uexp" 79
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Montage/Equip_Rifle_Standing_Montage.uasset" 80
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Montage/Equip_Rifle_Standing_Montage.uexp" 81
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonWalk.uasset" 82
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonWalk.uexp" 83
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonRun.uasset" 84
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonRun.uexp" 85
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonIdle.uasset" 86
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonIdle.uexp" 87
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPerson_IdleRun_2D.uasset" 88
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPerson_IdleRun_2D.uexp" 89
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uasset" 90
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Rt_Rifle_Ironsights.uexp" 91
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uasset" 92
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Lt_Rifle_Ironsights.uexp" 93
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uasset" 94
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Fwd_Rifle_Ironsights.uexp" 95
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uasset" 96
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Walk_Bwd_Rifle_Ironsights.uexp" 97
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Idle_Rifle_Ironsights.uasset" 98
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Idle_Rifle_Ironsights.uexp" 99
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/BS_Jog_IronSight.uasset" 100
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/BS_Jog_IronSight.uexp" 101
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Rt_Rifle.uasset" 102
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Rt_Rifle.uexp" 103
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Lt_Rifle.uasset" 104
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Lt_Rifle.uexp" 105
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Fwd_Rifle.uasset" 106
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Fwd_Rifle.uexp" 107
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Bwd_Rifle.uasset" 108
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Jog_Bwd_Rifle.uexp" 109
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Idle_Rifle_Hip.uasset" 110
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Idle_Rifle_Hip.uexp" 111
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/BS_Jog.uasset" 112
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/BS_Jog.uexp" 113
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPerson_Jump.uasset" 114
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPerson_Jump.uexp" 115
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonJump_Start.uasset" 116
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonJump_Start.uexp" 117
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonJump_Loop.uasset" 118
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/Base/ThirdPersonJump_Loop.uexp" 119
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_Main.uasset" 120
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_Main.uexp" 121
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_U.uasset" 122
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_U.uexp" 123
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_D.uasset" 124
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_D.uexp" 125
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_CC.uasset" 126
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Hip_CC.uexp" 127
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown_HiP.uasset" 128
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown_HiP.uexp" 129
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 130
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 131
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Ironsight_Main.uasset" 132
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AimDown/Aim_Ironsight_Main.uexp" 133
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun_PhysicsAsset.uasset" 134
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun_PhysicsAsset.uexp" 135
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun_Skeleton.uasset" 136
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun_Skeleton.uexp" 137
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun.uasset" 138
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Base/SK_FPGun.uexp" 139
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/MainCharacter.uasset" 140
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/MainCharacter.uexp" 141
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/Character1.uasset" 142
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/Character1.uexp" 143
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 144
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 145
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 146
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 147
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 148
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 149
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 150
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 151
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 152
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 153
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 154
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 155
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 156
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 157
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SpawnPoints/SpawnPoint_1vs1.uasset" 158
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SpawnPoints/SpawnPoint_1vs1.uexp" 159
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SpawnPoints/DefaultSpawnPoint.uasset" 160
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/SpawnPoints/DefaultSpawnPoint.uexp" 161
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyGameMode.uasset" 162
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyGameMode.uexp" 163
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/PlayerChild.uasset" 164
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/PlayerChild.uexp" 165
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ChatMessageChild.uasset" 166
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ChatMessageChild.uexp" 167
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ChatWindow.uasset" 168
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ChatWindow.uexp" 169
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/LobbyWB.uasset" 170
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/LobbyWB.uexp" 171
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/PlayerStatusScoreBoard.uasset" 172
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/PlayerStatusScoreBoard.uexp" 173
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ScoreBoard.uasset" 174
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ScoreBoard.uexp" 175
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ImportantServerMessageBox.uasset" 176
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ImportantServerMessageBox.uexp" 177
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ImportantServerMessage.uasset" 178
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/ImportantServerMessage.uexp" 179
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameChatMessageChild.uasset" 180
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameChatMessageChild.uexp" 181
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameChatWindow.uasset" 182
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameChatWindow.uexp" 183
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameUI.uasset" 184
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/Game/GameUI.uexp" 185
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/MyPlayerController.uasset" 186
@@ -200,10 +200,10 @@
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Aim_Space_Hip.uexp" 199
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Aim_Space_Ironsights.uasset" 200
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Aim_Space_Ironsights.uexp" 201
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 202
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uexp" 203
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 204
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uexp" 205
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uasset" 202
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Rt_Rifle_Hip.uexp" 203
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uasset" 204
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Lt_Rifle_Hip.uexp" 205
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uasset" 206
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Fwd_Rifle_Hip.uexp" 207
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Mannequin/Animations/AnimStarterPack/Crouch_Walk_Bwd_Rifle_Hip.uasset" 208
@@ -634,12 +634,12 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 633
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 634
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 635
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 636
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 637
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 638
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 639
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 640
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 641
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 636
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 637
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 638
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 639
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 640
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 641
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 642
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 643
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 644
@@ -655,28 +655,28 @@
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 654
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 655
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 656
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 657
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 658
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 659
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 660
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 661
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 662
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 663
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 664
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 665
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 666
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 667
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 668
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 669
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 670
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 671
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 672
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 673
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 674
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 675
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 676
-"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 677
-"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 678
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 657
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 658
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 659
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 660
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 661
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 662
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 663
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 664
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 665
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 666
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 667
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 668
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 669
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 670
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 671
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 672
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 673
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 674
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 675
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 676
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 677
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 678
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 679
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 680
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 681
@@ -698,18 +698,18 @@
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 697
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 698
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 699
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 700
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 701
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 702
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 703
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 704
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 705
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 706
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 707
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 708
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 709
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 710
-"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 711
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 700
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 701
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 702
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 703
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 704
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 705
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 706
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 707
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 708
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 709
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 710
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 711
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 712
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 713
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 714
@@ -806,68 +806,68 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 805
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 806
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 807
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 808
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 809
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 810
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 811
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 812
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 813
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 814
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 815
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 816
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 817
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 818
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 819
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 820
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby_BuiltData.uasset" 821
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby_BuiltData.uexp" 822
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby_BuiltData.ubulk" 823
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 824
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 825
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 826
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 827
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 828
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 829
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 830
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 831
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 832
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 833
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby.uexp" 834
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby.umap" 835
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 836
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 837
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1_BuiltData.uasset" 838
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1_BuiltData.uexp" 839
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1_BuiltData.ubulk" 840
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1.uexp" 841
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1.ubulk" 842
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1.umap" 843
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2_BuiltData.uasset" 844
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2_BuiltData.uexp" 845
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2_BuiltData.ubulk" 846
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 847
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uexp" 848
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2.uexp" 849
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2.umap" 850
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ServerChild.uasset" 851
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ServerChild.uexp" 852
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/ServerChildStructure.uasset" 853
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/ServerChildStructure.uexp" 854
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ServerMenu.uasset" 855
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ServerMenu.uexp" 856
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/MainMenuWB.uasset" 857
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/MainMenuWB.uexp" 858
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Menu.uexp" 859
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Menu.umap" 860
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap_BuiltData.uasset" 861
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap_BuiltData.uexp" 862
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap_BuiltData.ubulk" 863
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap.uexp" 864
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap.umap" 865
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/KickMessage.uasset" 866
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/KickMessage.uexp" 867
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Kicked.uexp" 868
-"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Kicked.umap" 869
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/KickMessage.uasset" 808
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/KickMessage.uexp" 809
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Kicked.uexp" 810
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Kicked.umap" 811
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 812
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 813
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 814
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 815
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 816
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 817
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 818
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 819
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 820
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 821
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 822
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 823
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 824
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby_BuiltData.uasset" 825
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby_BuiltData.uexp" 826
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby_BuiltData.ubulk" 827
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 828
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 829
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 830
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 831
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 832
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 833
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 834
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 835
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 836
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 837
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby.uexp" 838
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Lobby.umap" 839
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 840
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 841
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1_BuiltData.uasset" 842
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1_BuiltData.uexp" 843
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1_BuiltData.ubulk" 844
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1.uexp" 845
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1.ubulk" 846
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map1.umap" 847
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2_BuiltData.uasset" 848
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2_BuiltData.uexp" 849
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2_BuiltData.ubulk" 850
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 851
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uexp" 852
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2.uexp" 853
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Map2.umap" 854
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ServerChild.uasset" 855
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ServerChild.uexp" 856
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/ServerChildStructure.uasset" 857
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Blueprints/ServerChildStructure.uexp" 858
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ServerMenu.uasset" 859
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/ServerMenu.uexp" 860
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/MainMenuWB.uasset" 861
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Ui/MainMenuWB.uexp" 862
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Menu.uexp" 863
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/Menu.umap" 864
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap_BuiltData.uasset" 865
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap_BuiltData.uexp" 866
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap_BuiltData.ubulk" 867
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap.uexp" 868
+"C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/NewSystemMap.umap" 869
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/ServerFull.uexp" 870
 "C:/Users/gamen/Desktop/Learning UE4/AdvancedSession/Content/Maps/ServerFull.umap" 871
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 872
